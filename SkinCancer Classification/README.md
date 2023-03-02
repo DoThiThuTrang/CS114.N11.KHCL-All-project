@@ -23,4 +23,4 @@ Kế quả cho ra như sau:
 | Model | Accuracy | Precision | Recall | F1 score | Cross-Validation score |
 | --- | --- | --- | --- | --- | --- |
 | Gaussian naive bayes | 0.668966	| 0.706522	| 0.590909	| 0.643564	| 0.703446
-| SVM	0.655172	| 0.650862	| 0.686364	| 0.668142	| 0.636585
+| SVM	| 0.655172	| 0.650862	| 0.686364	| 0.668142	| 0.636585
