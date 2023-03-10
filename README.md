@@ -8,6 +8,6 @@ Giảng viên hướng dẫn: Ths. Phạm Nguyễn Trường An
 
 ## Handwritten Number Recogition
 
-## Sarcasm Detection 
+## Sarcasm Classification 
 
-## Skin Cancer Detection 
+## SkinCancer Classification 
